@@ -1,0 +1,105 @@
+.header{
+    background-color : #131921;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    position: sticky;
+    top: 0;
+}
+.logo{
+    width: 100px;
+    margin-right: 100px;
+    margin-left: 10px;
+    padding-top: 3px;
+   
+}
+.menue{
+    color: white;
+    width: 40px !important;
+    height: 40px !important;
+    padding-top: 1px;
+}
+.header__menue :hover{
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.header__logo :hover{
+    border: 1px solid white;
+    cursor: pointer;
+
+
+}
+.flag{
+    width: 25px;
+    padding-left:12px;
+}
+.input{
+    border-radius: ro;
+    height: 35px;
+    width: 600px;
+    padding-top: 2px;
+    border: none;
+}
+
+
+.signin > h3{
+    color: white;
+    padding-top: 2px;
+    margin-left: 20px;
+    font-size: 17px;
+    padding-top: 0;
+}
+h5{
+    font-size: 10px;
+    color: Grey;
+    padding-top: 0;
+}
+.signin{
+    padding-left: 10px;
+}
+.signin :hover{
+    border: 1px solid white;
+
+
+}
+.searchicon{
+    background-color: gold;
+    padding: 7px;
+
+
+}
+.header__input{
+    display: flex;
+    align-items: center;
+}
+.returnsandorders > h3{
+    color: white;
+    font-size: 15px;
+}
+.returnsandorders{
+    padding-top: 2px;
+    margin: 17px;
+    margin-left: 40px;
+}
+.returnsandorders :hover{
+    border: 1px solid white;
+}
+.cart > h1{
+    color: white;
+    font-size: 18px;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    padding-top: 2px;
+    margin: 17px;
+}
+.carticon{
+    width: 20px !important;
+    color: white;
+    padding-top: 12px;
+}
+.cart :hover{
+    border: 1px solid white;
+}

@@ -1,0 +1,16 @@
+.homephoto{
+    object-fit: contain;
+    width: 100%;
+    
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.shirt{
+    padding-top: 4px;
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,24 @@
+.signin1{
+    text-align: center;
+}
+.imageicon{
+    width: 240px;
+    padding-left: 1px;
+    padding-top: 20px;
+}
+.info{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid lightGray;
+    height: 250px;
+    width: 300px;
+}
+.info > h1{
+    font-weight: 400;
+    padding-left: 2px;
+    padding-top: 0;
+}
+.email{
+    width: 400;
+}

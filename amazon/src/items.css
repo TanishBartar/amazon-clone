@@ -1,0 +1,28 @@
+
+.photo{
+    width: 280px;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 8px;
+    margin-bottom: 20px;
+    background-color: white;
+
+}
+h2{
+  padding-top: 1px;
+  margin-left: 27px;
+
+}
+
+.itemphoto{
+    margin-top: 0px;
+    margin-right: 50px;
+    width: 280px;
+    height: 280px;
+}
+.h{
+  padding-top: 5px;
+  margin-left: 27px;
+
+}

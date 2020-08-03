@@ -1,0 +1,20 @@
+.poster{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 15px;
+    
+}
+.posterContainer{
+    width: 1205px;
+    height: 220px;
+    background-color: white;
+    margin-top: 3px;
+    margin-left: 20px;
+    margin-right: 8px;
+    margin-bottom: 20px;
+    align-items: center;
+
+}
